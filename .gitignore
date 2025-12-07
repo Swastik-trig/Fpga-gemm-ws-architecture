@@ -1,0 +1,11 @@
+project_12.cache/
+project_12.hw/
+project_12.ip_user_files/
+project_12.runs/
+project_12.sim/
+.Xil/
+*.dcp
+*.jou
+*.log
+*.str
+*.tmp
